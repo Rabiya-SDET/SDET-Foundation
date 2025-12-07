@@ -178,7 +178,7 @@ This is where real bugs show up.
 
 ---
 
-## ⭐ NON-FUNCTIONAL TESTING
+##  NON-FUNCTIONAL TESTING
 
 This is everything that’s not about “does it work,” but “how well does it work.”
 
@@ -244,7 +244,7 @@ Ensuring the system behaves consistently over long periods or repeated actions.
 
 ---
 
-## ⭐ FINAL SUMMARY
+##  FINAL SUMMARY
 
 * **Functional** = does it work?
 * **Smoke** = is it even testable?
