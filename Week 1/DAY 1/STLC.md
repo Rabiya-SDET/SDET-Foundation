@@ -1,4 +1,4 @@
-# STLC – How I Actually Handle Testing (QA + SDET Perspective)
+# STLC – How I Actually Handle Testing
 
 STLC is just the structured way I handle testing from start to finish.
 It makes sure I don’t miss requirements, I test in the right order, and the build actually goes out in a stable state.
