@@ -1,4 +1,4 @@
-# Comprehensive Guide to Testing Types
+# Testing Types
 
 ## 1. Functional Testing
 
